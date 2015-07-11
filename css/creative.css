@@ -170,7 +170,7 @@ aside {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: black;
     }
-}
+
 
 header {
     position: relative;
@@ -473,8 +473,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
-}
-
-cc {
-  color: black;
 }
