@@ -1,4 +1,5 @@
-The theme for this page was created using a Bootstrap template. It's purpose is to be used as a web development portfolio for Steven Francisco.
+The theme for this page began using a Bootstrap template but has been extremely altered and personalized. It's purpose is to be used as a web development portfolio for Steven Francisco.
+Still a work in progress...
 
 website: http://stvnfrancisco.bitballoon.com/
 
