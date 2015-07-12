@@ -38,6 +38,10 @@ w {
     transition: all .35s;
 }
 
+sm {
+  font-size: 10px;
+}
+
 a:hover,
 a:focus {
     color: black;
