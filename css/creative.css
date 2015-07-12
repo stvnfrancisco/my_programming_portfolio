@@ -31,6 +31,13 @@ a {
     transition: all .35s;
 }
 
+w {
+    color: white;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
 a:hover,
 a:focus {
     color: black;
