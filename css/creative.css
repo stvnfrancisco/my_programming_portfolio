@@ -32,6 +32,13 @@ a {
 }
 
 w {
+    color: yellow;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+y {
     color: white;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
